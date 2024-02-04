@@ -54,7 +54,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f469aecf87.png",
 						"description": "热门文章与资讯推荐",
 
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "ReadHub",
@@ -117,7 +117,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/06/656f51c78c7db.png",
 						"description": "弹幕视频，二次元文化",
 
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "36氪",
@@ -153,7 +153,7 @@
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27acb144c.png",
 						"description": "独立、深度、观点",
 
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "虎嗅资讯",
@@ -267,7 +267,7 @@
 						"url": "https://www.fre123.com/tech/jiqizhixin",
 						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
 						"description": "人工智能科技媒体，探索智能世界",
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "量子位",
@@ -275,7 +275,7 @@
 						"url": "https://www.fre123.com/tech/qbitai",
 						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
 						"description": "科技资讯平台，前沿科技动态解读",
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "湾区日报",
@@ -283,7 +283,7 @@
 						"url": "https://www.fre123.com/tech/wanqu",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
 						"description": "科技创新资讯，关注湾区科技动态",
-						"is_show": false
+						"is_show": true
 					},
 					{
 						"title": "小众软件",
@@ -291,7 +291,7 @@
 						"url": "https://www.fre123.com/tech/appinn",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
 						"description": "探索独特应用，发现小众精品软件",
-						"is_show": false
+						"is_show": true
 					}
 				]
 			},
